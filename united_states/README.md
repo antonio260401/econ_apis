@@ -16,4 +16,4 @@ This folder contains Python scripts for automated data retrieval from major U.S.
 - **Focus:** Financial sector.
 - **Planned Indicators:** Monetary Policy Rates
 ## 🛠️ Prerequisites
-Most scripts in this folder require an API Key. Please refer to the "key_setup" markdown file for environment variable setup instructions.<img width="1384" height="1221" alt="image" src="https://github.com/user-attachments/assets/306a9b3a-12df-4114-a781-80ff989d496f" />
+Most scripts in this folder require an API Key. Please refer to the "key_setup" markdown file for environment variable setup instructions.
